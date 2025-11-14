@@ -1,0 +1,58 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(144, 231, 168);
+    text-align: center;
+    margin: 20px;
+}
+
+h1{
+    color: rgba(41, 36, 36, 0.845);
+    margin-bottom: 30px;
+
+}
+
+.product-box{
+    background-color: rgb(174, 205, 238);
+    width: 300px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 2px solid rgb(16, 3, 5);
+    border-radius: 8px;
+}
+
+.product-box img{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.product-box h2{
+    color: rgb(95, 6, 150);
+    font-size: 20px ;
+    margin-top: 10px;
+}
+
+.price{
+    color: brown;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+button{
+    background-color: rgb(55, 58, 130);
+    color: beige;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+
+button:hover {
+    background-color: rgb(137, 84, 84);
+}
+
+.description{
+    color: rgb(85, 54, 54);
+    font-size: 14px;
+    margin: 10px 0;
+}
